@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1644466295 source:c:\users\david\desktop\universidad\alfredo\pila y cola\pila y cola\main.cpp
+	<iostream>
+	"Menu.h"
+
+1644465577 c:\users\david\desktop\universidad\alfredo\pila y cola\pila y cola\stack.h
+	<exception>
+	<string>
+
+1644462267 c:\users\david\desktop\universidad\alfredo\pila y cola\pila y cola\queue.h
+	<exception>
+	<string>
+
+1644466295 source:c:\users\david\desktop\universidad\alfredo\pila y cola\pila y cola\expresion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	"Expresion.h"
+
+1644463458 c:\users\david\desktop\universidad\alfredo\pila y cola\pila y cola\expresion.h
+	"Stack.h"
+	"Queue.h"
+	<exception>
+
+1644466303 c:\users\david\desktop\universidad\alfredo\pila y cola\pila y cola\menu.h
+	<exception>
+	<string>
+	"Expresion.h"
+
+1644466395 source:c:\users\david\desktop\universidad\alfredo\pila y cola\pila y cola\menu.cpp
+	<windows.h>
+	<string>
+	<iostream>
+	"menu.h"
+
